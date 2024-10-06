@@ -80,3 +80,20 @@ section {
   max-width: 200px;
   border-radius: 5px;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+  text-align: center;
+}
+
+footer h1 {
+  width: 200px;
+}
+
+footer .footerlogo {
+  width: 30%;
+  height: auto;
+}
